@@ -1,0 +1,5 @@
+template-file-path: ./cfn_lambda.yaml
+
+tags:
+    cost-center: '3389'
+    org: 'AWS'
